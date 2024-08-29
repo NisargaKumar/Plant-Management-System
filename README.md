@@ -1,1 +1,2 @@
 # Plant-Management-System
+The Plant Management System is a database-driven e-commerce platform for buying and selling plants, with a strong focus on SQL for managing user data, product listings, and transactions. It uses MySQL with phpMyAdmin as the core database, ensuring secure and efficient data handling. The frontend is built with HTML, CSS, and Bootstrap, while Python handles backend integration. The system enables users to log in and purchase plants, and farmers to list and sell their products, providing a reliable marketplace for connecting buyers with local growers.
